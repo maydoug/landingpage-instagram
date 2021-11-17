@@ -5,6 +5,6 @@ Esse foi o desafio do bootcamp da DIO, fizemos o clone da pagina de login do Ins
 ### LINKS:
 
 * [VEJA A PÁGINA](https://maydoug.github.io/landingpage-instagram/)
-* [VIDEO DA RESPOSIVIDADE](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* [VIDEO DA RESPOSIVIDADE](https://github.com/maydoug/landingpage-instagram/blob/main/img/instagram_resposivo.gif)
 
 ## 🚀 Let's code! 🚀
